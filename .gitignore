@@ -1,5 +1,5 @@
-part1
-part2
-node_modules
-package-lock.json
-package.json
+.part1/
+.part2/
+.node_modules/
+.package-lock.json
+.package.json
